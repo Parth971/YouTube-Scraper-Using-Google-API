@@ -1,4 +1,5 @@
-
+# YouTube-Scraper-Using-Google-API
+This is a project that utilizes a Google API Key to fetch all video links from a specified YouTube channel. The user provides the channel's unique name, and the scraper retrieves the video links, storing them in a JSON file. This enables easy access to the collected data for further analysis or processing. The project is helpful for researchers, content creators, or anyone interested in programmatically obtaining video information from YouTube channels.
 
 ## Install Virtual Environment
 
